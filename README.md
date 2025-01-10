@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @jamesnulliu
-- 👀 I’m interested in C++, CUDA, Python...
-- 🌱 I’m currently learning CUDA Programing, Deep Learning, Computer Vision, ...
-- 💞️ I’m looking to collaborate on anything written in C++ or Python!
-- 📫 My email: jamesnulliu@outlook.com
+## Hi, I am JamesNULLiu
 
-![JamesNULLiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesnulliu&show_icons=true)
+<a href="https://github.com/jamesnulliu?tab=repositories" >
+  <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=jamesnulliu&show_icons=true&theme=aura" />
+</a>
 
-<!---
-jamesnulliu/jamesnulliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a fourth-year undergraduate student at the [School of Computer Engineering and Science](https://cs.shu.edu.cn/), [Shanghai University](https://www.shu.edu.cn/), now working as an intern in [Shanghai AI Laboratory](https://www.shlab.org.cn), mainly engaged in **inference acceleration** and **graph optimization** of large language models.
+
+🔬 **Research Interests**
+
+- Training and Inference Acceleration
+- Graph Compilation and Optimization
+- Machine Learning Systems
+- High Performance Computing
+
+🚀 **Skills**
+
+- C/C++
+- CUDA
+- Pytorch/LibTorch
+- MLIR
+- CMake
