@@ -11,4 +11,4 @@ If you have any inquiries or are interested in collaboration, please feel free t
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jamesnulliu&show_icons=true&theme=aura" height="200" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesnulliu&layout=compact&theme=aura" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=jamesnulliu&show_icons=true&theme=aura" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesnulliu&layout=compact&theme=aura" height="180" />
