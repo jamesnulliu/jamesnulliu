@@ -4,19 +4,30 @@
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=jamesnulliu&show_icons=true&theme=aura" />
 </a>
 
-I am a fourth-year undergraduate student at the [School of Computer Engineering and Science](https://cs.shu.edu.cn/), [Shanghai University](https://www.shu.edu.cn/), now working as an intern in [Shanghai AI Laboratory](https://www.shlab.org.cn), mainly engaged in **inference acceleration** and **graph optimization** of large language models.
+I am a first-year MSCS student at University of Southern California, now working as a research intern in [INK Lab @ USC](https://inklab.usc.edu/), advised by Prof. [Xiang Ren](https://www.seanre.com/) and Postdoc. [Siyuan Wang](https://siyuanwangw.github.io/). My current research focuses on RLHF, Test-time Computing and Reasoning of Large Language Models.
 
-🔬 **Research Interests**
+I achieved my Bachelor’s degree in Computer Science from Shanghai University. During that time, I conducted in-depth research on Inference Acceleration, High Performance Computing, In-vehicle System Security and Super-Resolution.
 
-- Training and Inference Acceleration
-- Graph Compilation and Optimization
-- Machine Learning Systems
-- High Performance Computing
+If you have any inquiries or are interested in collaboration, please feel free to contact me via email at jamesnulliu@gmail.com.
 
-🚀 **Skills**
+👉 My Personal Website: https://jamesnulliu.github.io/  
 
-- C/C++
-- CUDA
-- Pytorch/LibTorch
-- MLIR
-- CMake
+## Research Interests
+
+**Natural Language Processing**
+
+- Reinforcement Learning from Human Feedback
+- Reasoning
+- Test-time Computing
+- Inference Acceleration
+
+**Machine Learning**
+  
+- In-vehicle System Security
+- Super-Resolution for Meteorological Data
+  
+**Software Engineering**
+
+- CUDA Programming
+- Fast Kernel Development
+- AI Compiler
