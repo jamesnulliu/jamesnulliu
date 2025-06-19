@@ -1,8 +1,6 @@
 ## Hi, I am JamesNULLiu
 
-<a href="https://github.com/jamesnulliu?tab=repositories" >
-  <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=jamesnulliu&show_icons=true&theme=aura" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=jamesnulliu&show_icons=true&theme=aura" width="auto" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesnulliu&layout=compact&theme=aura" width="auto" />
 
 I am a first-year MSCS student at University of Southern California, now working as a research intern in [INK Lab @ USC](https://inklab.usc.edu/), advised by Prof. [Xiang Ren](https://www.seanre.com/) and Postdoc. [Siyuan Wang](https://siyuanwangw.github.io/). My current research focuses on RLHF, Test-time Computing and Reasoning of Large Language Models.
 
